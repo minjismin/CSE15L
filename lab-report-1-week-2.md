@@ -1,8 +1,14 @@
-![Image]
-(/Users/min/Desktop/Screen Shot 2022-04-08 at 8.43.11 PM.png)
+# How to log into a course-specific account?
 
-[Lab Report 1](https://minjismin.github.io/cse15l-lab-reports/)
+## step 1- Installing VS Code
 
-![Image1](https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg)
+## If you don't have VS Code
 
-![Image](/Users/min/Desktop/Screen Shot 2022-04-08 at 8.43.11 PM.png)
+Go to VS Code website [Link](https://code.visualstudio.com/, ) and download VS Code based on the insruction on website.
+If it is sucessfully installed, you should able to open up VS Code window.
+
+## If you already have VS Code
+
+If you already installed VS code, then open up window. 
+
+![Image](sc1.png)
