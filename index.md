@@ -27,14 +27,14 @@ Horizontal rule:
 
 # About Markdown
 
-###Benefits
+## Benefits
 1. you can open markdown file using any application
 2. everwhere
 3. portable 
 
-### Markdown processor converts markdown formatted text to html format
+## Markdown processor converts markdown formatted text to html format
 
-### Markdown is good to create a website, to collaborate with others, and others...
+## Markdown is good to create a website, to collaborate with others, and others...
 
 
 'public static void main fjdkjkfdsf forgot everything about java...' with backticks
