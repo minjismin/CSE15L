@@ -49,7 +49,7 @@ Here is an example:
 7. now you can run it on the ieng6 server using javac and java command
 
 Here is an example:
-![Image](sc.4.png)
+![Image](sc4.png)
 
 ## step 5- setting an SSH key
 
@@ -83,4 +83,5 @@ After you followed all these steps, you should be able to ssh or scp without pas
   
 Here is an example:
 ![Image](sc5.png)
+  
   
