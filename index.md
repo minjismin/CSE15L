@@ -36,7 +36,20 @@ Horizontal rule:
 ## Markdown is good to create a website, to collaborate with others, and others...
 
 
-'public static void main fjdkjkfdsf forgot everything about java...' with backticks
+`public String[] execute(String[] data) {
+      int sum = 0;
+      if (data[0].equals("sum")) {
+         if (data.length == 1) {
+            return new String[] { "0" };
+         } else {
+            for (int i = 1; i < data.length; i++) {
+               sum += Integer.parseInt(data[i]);
+            }
+         }
+      }
+      return new String[] { sum + "" };
+   }
+}`
 
 ...
 #minjismin
