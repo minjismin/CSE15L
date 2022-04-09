@@ -51,10 +51,10 @@ Horizontal rule:
    }
 }`
 
-...
-#minjismin
-print 'minjismin is minjae'
+```
+# minjismin
+print minjismin is minjae
 print 'I'm in seventh college'
-...
+```
 
 
