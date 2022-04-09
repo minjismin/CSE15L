@@ -61,10 +61,14 @@ Follow these steps:
   Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa
   Enter passphrase (empty for no passphrase)
   Enter same passphrase again:
-
+  
+  
 After these steps, you can see code like:
-> Your public key has been saved in /Users/<user-name>/.ssh/id_rsa.pub.
-> and some random image:
+  ```
+  Your public key has been saved in /Users/<user-name>/.ssh/id_rsa.pub.
+  and some random image:
+  
+  ```
   
 Now we need to copy the public (not the private) key to the ssh
 Log into SSH again.
@@ -73,4 +77,10 @@ and then <logout>
 and after you back on your client put the code 
 
 ```scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys```
+
+After you followed all these steps, you should be able to ssh or scp without password.
+  
+  
+Here is an example:
+![Image](sc5.png)
   
