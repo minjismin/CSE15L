@@ -90,4 +90,8 @@ Here is an example:
 2. ```$ cp WhereAmI.java OtherMain.java; javac OtherMain.java;java WhereAmI```-use semicolons to run multiple commands on the same line in most terminals
 3. You can use the up-arrow on your keyboard to recall the last command that was run 
   
+![Image](sc6.png)
+  
+  
+
   
