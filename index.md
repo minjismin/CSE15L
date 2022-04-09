@@ -5,8 +5,7 @@
 
 [Link](http://cnn.com)
 
-![Image](http://https://www.google.com/
-https://assets.website-files.com/5e9e1ab03f01965d368f432a/618d4ad37c82f25bea75c837_3jY1_q7CbLTlDMFc8-CN2UhSEHIWrBDtu3oTdi8i8TFbwNq6835r6Fi-v97lOEdtx6M4BgYwXcSgBCFFem3lWOa5FJIuOHG8mT1h4i-poD_Hf2QnWrE_6ZIu0HPx8zUZJSA9Y4HE.png/meme.png)
+![Image](https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg)
 
 
 >Blockquote 
