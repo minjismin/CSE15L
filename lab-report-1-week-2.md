@@ -84,4 +84,10 @@ After you followed all these steps, you should be able to ssh or scp without pas
 Here is an example:
 ![Image](sc5.png)
   
+## step 6-Optimizing Remote Running
+  
+1. ```$ ssh cs15lsp22zz@ieng6.ucsd.edu "ls"``` -this command will log in and list the home directory on the remote server
+2. ```$ cp WhereAmI.java OtherMain.java; javac OtherMain.java;java WhereAmI```-use semicolons to run multiple commands on the same line in most terminals
+3. You can use the up-arrow on your keyboard to recall the last command that was run 
+  
   
