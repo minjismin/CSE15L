@@ -43,5 +43,6 @@ Horizontal rule:
 #minjismin
 print 'minjismin is minjae'
 print 'I'm in seventh college'
+...
 
 
