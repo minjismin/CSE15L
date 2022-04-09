@@ -3,4 +3,4 @@
 
 [Lab Report 1](https://minjismin.github.io/cse15l-lab-reports/)
 
-![Image1](https://drive.google.com/file/d/1KgUwCp2vBhcvdmE5Pal5Hiuho74GTH4P/view?usp=sharing)
+![Image1](https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg)
