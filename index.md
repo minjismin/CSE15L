@@ -9,7 +9,7 @@
 
 
 >Blockquote 
-Today is Friday and my head is so sosososososo not in study mood....
+You only live once YOLO
 
 * minjae1
 * minjae2
