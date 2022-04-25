@@ -1,6 +1,7 @@
 ## Code 1
 
 **Show a screenshot of the code change diff from Github for the code 1**
+
 ![Image](sc1 -lab2.png)
 
 **Link to the test file for a failure-inducing input that prompted you to make that
@@ -43,6 +44,7 @@ After I added the if code to break the code to not cause the heap exception erro
 
 ##code 2
 **Show a screenshot of the code change diff from Github for the code 1**
+
 ![image](sc2 - lab2.png)
 
 **Link to the test file for a failure-inducing input that prompted you to make that
@@ -64,13 +66,14 @@ By adding more lines, I could print out the correct output by rearragning the in
 ##code 3
 
 **Show a screenshot of the code change diff from Github for the code 1**
+
 ![image](sc3 - lab2.png)
 
 
 **Link to the test file for a failure-inducing input that prompted you to make that
 change**
 
-[Error 3 test] (https://github.com/minjismin/markdown-parser/blob/main/test3.md)
+[Error 3 test](https://github.com/minjismin/markdown-parser/blob/main/test3.md)
 
 **Show the symptom of that failure-inducing input by showing the output of
 running the file at the command line for the version where it was failing (this
