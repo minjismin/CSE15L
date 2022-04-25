@@ -1,3 +1,4 @@
+# lab-report-2-week-4
 ## Code 1
 
 **Show a screenshot of the code change diff from Github for the code 1**
@@ -42,7 +43,7 @@ Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
 
 After I added the if code to break the code to not cause the heap exception error, the bug was fixed.
 
-##code 2
+## code 2
 **Show a screenshot of the code change diff from Github for the code 1**
 
 ![image](sc2 - lab2.png)
@@ -63,7 +64,7 @@ symptom, and the failure-inducing input.**
 
 By adding more lines, I could print out the correct output by rearragning the index. It stucked at the infinity loop at first but by rearranging index number and adding index number by crating new integer lines, I could fix the bug.
 
-##code 3
+## code 3
 
 **Show a screenshot of the code change diff from Github for the code 1**
 
