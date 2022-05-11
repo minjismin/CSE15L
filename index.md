@@ -5,6 +5,7 @@
 
 [Link to my lab report 1](https://minjismin.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 [Link to my lab report 2](https://minjismin.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
+[Link to my lab report 3](https://minjismin.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 ![Image](https://upload.wikimedia.org/wikipedia/en/4/44/University_of_California%2C_San_Diego_seal.svg)
 
 
