@@ -48,5 +48,17 @@ The link of my commit
 
 ## Copy whole directories with scp -r
 
-### 1
+### 1 copy using scp -r
+
+! [scp-r](scp-r.png)
+
+### Show logging into your ieng6 account after doing this and compiling and running the tests for your repository
+
+! [test](test.png)
+
+### how (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line
+
+! [oneline] (oneline.png)
+
+but since my file is in icloud it copied my whole icloud file, so it didn't work I moved my file to my computer file from icloud as TA said but it didn't work too. 
 
