@@ -58,7 +58,7 @@ The link of my commit
 
 ### how (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line
 
-! [oneline] (oneline.png)
+! [oneline](oneline.png)
 
 but since my file is in icloud it copied my whole icloud file, so it didn't work I moved my file to my computer file from icloud as TA said but it didn't work too. 
 
