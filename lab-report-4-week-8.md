@@ -95,8 +95,7 @@ And then there's more text
 ## Expected Output
 
 `
-[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]
-
+[https://www.twitter.com,https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule,https://cse.ucsd.edu/]
 `
 
 
