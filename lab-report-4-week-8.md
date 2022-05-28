@@ -36,7 +36,7 @@ Link to reviewed repository: [link2](https://github.com/ezh247467/markdown-parse
 
 ## Possible code change
 
-To process Snippet 1 as a test, we need to create whole new method which can read .md files as strings and distinguish "backticks." 
+To process Snippet 1 as a test, we need to a create whole new method which can read .md files as strings and distinguish "backticks." 
 
 # Snippet 2
 
@@ -60,7 +60,7 @@ To process Snippet 1 as a test, we need to create whole new method which can rea
 
 ## Possible code changes
 
-To take snippet 2 as a test, we also need to create whole new method which can read nested parenthesis, brackets, and escaped brackets. New code would need many lines which can distinguish open and end of parenthesis, bracket, and escaped bracket and figure out links in the test. 
+To take snippet 2 as a test, we also need to create a whole new method which can read nested parenthesis, brackets, and escaped brackets. New code would need many lines which can distinguish open and end of parenthesis, bracket, and escaped bracket and figure out links in the test. 
 
 # Snippet 3
 
@@ -106,6 +106,6 @@ And then there's more text
 
 ## Possbile code changes
 
-To read snippet 3, code should be able to find missing bracket and parenthesis. Therefore, by adding codes that can find out the missing part and can take links as strings, added code will help orignial code to successfully read snippet 3. 
+To read snippet 3, code should be able to find missing bracket and parenthesis. Therefore, by adding new codes that can find out the missing part and can take links as strings, added code will help orignial code to successfully read snippet 3. 
 
 
