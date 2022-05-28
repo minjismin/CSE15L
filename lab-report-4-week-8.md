@@ -27,9 +27,9 @@ Link to reviewed repository: [link2](https://github.com/ezh247467/markdown-parse
 
 ## Expected Output
 
-`
-[url.com]
-`
+
+> [url.com]
+
 
 ![1](mine snippet 1 fail.png)
 ![4](reviewed snippet 1 fail.png)
@@ -52,9 +52,9 @@ To process Snippet 1 as a test, we need to create whole new method which can rea
 ```
 ## Expected Output
 
-`
-[a.com a.com(()), exmaple.com]
-`
+
+> [a.com a.com(()), exmaple.com]
+
 ![2](mine snippet 2 fail.png)
 ![5](reviewed snippet 2 fail.png)
 
@@ -96,9 +96,9 @@ And then there's more text
 
 ## Expected Output
 
-`
-[https://www.twitter.com,https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule,https://cse.ucsd.edu/]
-`
+
+> [https://www.twitter.com,https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule,https://cse.ucsd.edu/]
+
 
 
 ![3](mine snippet 3 fail.png)
