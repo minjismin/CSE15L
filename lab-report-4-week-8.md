@@ -34,7 +34,7 @@ Link to reviewed repository: [link2](https://github.com/ezh247467/markdown-parse
 ![1](mine snippet 1 fail.png)
 ![4](reviewed snippet 1 fail.png)
 
-## Possible code change
+## Possible code changes
 
 To process Snippet 1 as a test, we need to a create whole new method which can read .md files as strings and distinguish "backticks." 
 
