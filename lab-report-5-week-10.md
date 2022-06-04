@@ -33,6 +33,7 @@ Expected output:
 /f&ouml;&ouml;
 ![test32 link](https://github.com/nidhidhamnani/markdown-parser/blob/main/f%C3%B6%C3%B6)
 ![preview](32preview.png)
+
 4. Problem in code
    Both test give the wrong output because both test are supposed to give the link in the test but it give both link and text in the "". 
    This happened because there is no code that can differentiate link and words in the test. MarkdownParse code takes all things as one in the paranthesis.
