@@ -15,7 +15,7 @@ wrong output
 expected output is (list the links that are expected in the output).
 
 ## for 22.md
-Both give the wrong output
+Both gave the wrong output
 Actual output:
 ![actual output test22](test22.png)
 
@@ -24,8 +24,9 @@ Expected output:
 [test22 link](https://github.com/nidhidhamnani/markdown-parser/blob/main/bar*)
 ![preview](22preview.png)
 
+
 ## for 32.md
-Both give the wrong output
+Both gave the wrong output
 Actual output:
 ![actual output test32](test32.png)
 
@@ -34,11 +35,14 @@ Expected output:
 ![test32 link](https://github.com/nidhidhamnani/markdown-parser/blob/main/f%C3%B6%C3%B6)
 ![preview](32preview.png)
 
-4. Problem in code
-   Both test give the wrong output because both test are supposed to give the link in the test but it give both link and text in the "". 
-   This happened because there is no code that can differentiate link and words in the test. MarkdownParse code takes all things as one in the paranthesis.
+4. problem in code 1:
+   This test gives the wrong output because the code to seperate link from the snippet didn't work due to the absence of distinguisher. The code I attached below does not have any code that can differentiate code from all text. To solve this problem, we should add distinguisher which can separate link from texts.
+![1error](1 error.png)
+6. Problem in code 2:
+   This test gives the wrong output because this code is supposed to give the link in the test but it gives both link and text in the "". 
+   This happened because the code can not read the link since there is no "." at the end. MarkdownParse code takes all things as one in the paranthesis.
    Considering this, we can fix this bug by adding code that can differentiate text in the paranthesis().
 
-
+![2error](2 error.png)
 
 
